@@ -7,5 +7,4 @@
 - 🤔 I’m looking for help with learning how to create an effective testing enviroment within my projects 
 - 💬 Ask me about topics such as fitness, javascript or mma
 - 📫 How to reach me: | Instagram: @lukealmond18 | Linkedin: linkedin.com/in/luke-almond-940aa2245 | Email: lukealmond44@gmail.com
-- ⚡ Fun fact: I've never attended a formal coding bootcamp or have any related CS degree, my knowledge is all self taught
 
