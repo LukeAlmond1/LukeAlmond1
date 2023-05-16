@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on developing a personal newsletter service called Plugged
 - 🌱 I’m currently learning 0Auth & 0Auth 2.0 protocols 
 - 👯 I’m looking to collaborate on Next JS based projects
 - 🤔 I’m looking for help with learning how to create an effective testing enviroment within my projects 
